@@ -1,7 +1,5 @@
 # Social Network Project
 
-This is the ECE356 Final Project for University of Waterloo
-
 ## Getting Started
 
 This project is written in JavaScript, and the runtime environment is Node.JS.
